@@ -46,7 +46,7 @@
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mheej9182)
+![Stats](https://github-readme-stats.vercel.app/api?username=mheej9182&theme=merko)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mheej9182)
 
 ---
@@ -73,4 +73,8 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&section=footer&height=120&color=0:6b8f3e,100:4f6f52&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=gradient&height=160&animation=fadeIn&color=0:f7ffe0,50:c7e9a0,100:6b8f3e"/>
 </p>

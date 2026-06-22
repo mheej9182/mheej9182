@@ -48,10 +48,10 @@
 
 https://github-readme-stats.vercel.app/api?username=mheej9182
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_ID
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mheej9182
 
-https://github-readme-activity-graph.vercel.app/graph?username=YOUR_ID
-
+https://github-readme-activity-graph.vercel.app/graph?username=
+mheej9182
 
 ---
 

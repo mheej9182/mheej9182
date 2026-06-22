@@ -1,5 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=160&text=Hi.There!&animation=fadeIn&color=0:f7ffe0,50:c7e9a0,100:6b8f3e&fontColor=2f3e1f"/>
+</p>
+<p aling="center">
   <img width="374" height="374" alt="image" src="[https://github.com/user-attachments/assets/5c0ca20a-b1dd-4c7a-9e71-a60bf8815db2](https://www.pinterest.com/pin/cat-dance-dance-cat-gif-cat-dance-dance-cat-cat-discover-share-gifs--5911043261255735/)" />
 </p>
 

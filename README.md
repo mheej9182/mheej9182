@@ -6,7 +6,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🌿 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-6b8f3e?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -17,7 +17,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🌿 GitHub Stats
 
 <p align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=gruvbox_light&title_color=6b8f3e&icon_color=6b8f3e" />

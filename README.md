@@ -6,6 +6,10 @@
 </p>
 
 ## 🌿 About Me
+- Major Artificial Inteligence(AI) in Gachon Uni, SeoungNam
+- Graduation Feb, 2027
+- Focused on ML/DL and data analysis
+- Motivated, detail-oritented, eager to learn
 
 ---
 

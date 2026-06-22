@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=160&text=Hi.There!&animation=fadeIn&color=0:f7ffe0,50:c7e9a0,100:6b8f3e&fontColor=2f3e1f"/>
 </p>
 <p align="center">
-  <img width="374" height="374" alt="image" src="https://www.pinterest.com/pin/cat-dance-dance-cat-gif-cat-dance-dance-cat-cat-discover-share-gifs--5911043261255735/" />
+  <img src="https://tenor.com/ko/view/cats-dancing-dancing-3d-cat-3d-dancing-kitty-dancing-kitties-gif-15186060471676340402" />
 </p>
 
 ## 🌿 About Me

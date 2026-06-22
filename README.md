@@ -6,7 +6,7 @@
 </p>
 
 ## 🌿 About Me
-- Major Artificial Inteligence(AI) in Gachon Uni, SeoungNam
+- Major Artificial Intelligence(AI) in Gachon Uni, SeoungNam
 - Graduation Feb, 2027
 - Focused on ML/DL and data analysis
 - Motivated, detail-oritented, eager to learn
@@ -42,6 +42,14 @@
   <img src="https://img.shields.io/badge/Notion-8fbf6f?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
 
+
+---
+
+## 🌿 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Korean-Native-6b8f3e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/English-B2~C1-8fbf6f?style=for-the-badge"/>
+</p>
 
 
 ---

@@ -14,13 +14,13 @@
 ---
 
 ## 🌿 Tech Stack
-
-<p align="center">
-  ## 🌿 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,aws,docker,github" />
-</p>
+<!--<p align="center">-->
+**Languages:** Java, Python  
+**Frameworks:** Spring Boot  
+**Database:** MySQL  
+**Cloud:** AWS  
+**Tools:** GitHub, Docker
+<!--</p>-->
 
 ---
 

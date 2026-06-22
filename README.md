@@ -15,7 +15,7 @@
 
 ## 🌿 Tech Stack
 
-### 🌿 AI / Machine Learning
+### 🪴 AI / Machine Learning
 <p align="center">
   <img src="https://img.shields.io/badge/Python-6b8f3e?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-8fbf6f?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/OpenCV-8fbf6f?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
-### 🌿 Programming
+### 🪴 Programming
 <p align="center">
   <img src="https://img.shields.io/badge/Java-6b8f3e?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-8fbf6f?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/C-8fbf6f?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
-### 🌿 Tools / Collaboration
+### 🪴 Tools / Collaboration
 <p align="center">
   <img src="https://img.shields.io/badge/VSCode-6b8f3e?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio-8fbf6f?style=for-the-badge&logo=visualstudio&logoColor=white"/>

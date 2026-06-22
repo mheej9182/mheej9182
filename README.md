@@ -16,10 +16,10 @@
 ## 🌿 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-6b8f3e?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-8fbf6f?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4f6f52?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-556b2f?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  ## 🌿 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,aws,docker,github" />
 </p>
 
 ---

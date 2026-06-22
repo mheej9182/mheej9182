@@ -15,7 +15,7 @@
 
 ## 🌿 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,tensorflow,pytorch,sklearn,opencv,vscode,visualstudio,jupyter,git,github,notion&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,tensorflow,pytorch,sklearn,opencv,vscode,visualstudio,git,github,notion&perline=8" />
 </p>
 
 ---

@@ -6,7 +6,8 @@
 </p>
 
 ## 🌿 About Me
-- Major Artificial Intelligence(AI) in Gachon Uni, SeoungNam, South Korea
+- Major Artificial Intelligence(AI) in Gachon Uni, SeoungNam, South Korea - March, 2022~
+- English Course in University of Leeds(UoL), Leeds, England - Jan-Feb, 2026
 - Graduating soon **Feb, 2027**
 - Focused on **ML/DL and data analysis**
 - **Motivated, detail-oritented, eager to learn**

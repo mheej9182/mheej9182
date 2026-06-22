@@ -47,9 +47,10 @@
 ---
 
 <p align="center">
-![Stats](https://github-readme-stats.vercel.app/api?username=mheej9182&theme=merko)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mheej9182)
+  <img src="https://github-readme-stats.vercel.app/api?username=mheej9182&theme=merko" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mheej9182" />
 </p>
+
 
 ---
 

@@ -14,13 +14,9 @@
 ---
 
 ## 🌿 Tech Stack
-<!--<p align="center">-->
-**Languages:** Java, Python  
-**Frameworks:** Spring Boot  
-**Database:** MySQL  
-**Cloud:** AWS  
-**Tools:** GitHub, Docker
-<!--</p>-->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,tensorflow,pytorch,sklearn,pandas,numpy,matplotlib,opencv,vscode,visualstudio,jupyter,git,github,notion" />
+</p>
 
 ---
 

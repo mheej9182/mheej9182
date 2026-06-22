@@ -7,9 +7,9 @@
 
 ## 🌿 About Me
 - Major Artificial Intelligence(AI) in Gachon Uni, SeoungNam, South Korea
-- Graduation Feb, 2027
-- Focused on ML/DL and data analysis
-- Motivated, detail-oritented, eager to learn
+- Graduating soon **Feb, 2027**
+- Focused on **ML/DL and data analysis**
+- **Motivated, detail-oritented, eager to learn**
 
 ---
 

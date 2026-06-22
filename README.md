@@ -15,8 +15,23 @@
 
 ## 🌿 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,tensorflow,pytorch,sklearn,opencv,vscode,visualstudio,git,github,notion&perline=8" />
+  <img src="https://img.shields.io/badge/Python-6b8f3e?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-8fbf6f?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-4f6f52?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-6b8f3e?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-8fbf6f?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-4f6f52?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-6b8f3e?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-8fbf6f?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-4f6f52?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-6b8f3e?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-8fbf6f?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-4f6f52?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-6b8f3e?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-8fbf6f?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-4f6f52?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
+
 
 ---
 

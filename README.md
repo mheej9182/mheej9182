@@ -65,8 +65,8 @@
 ## 🌿 GitHub Stats
 
 <p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=gruvbox_light&title_color=6b8f3e&icon_color=6b8f3e" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&theme=gruvbox_light&title_color=6b8f3e" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=mheej9182&show_icons=true&theme=gruvbox_light&title_color=6b8f3e&icon_color=6b8f3e" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mheej9182&layout=compact&theme=gruvbox_light&title_color=6b8f3e" />
 </p>
 
 ---

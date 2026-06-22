@@ -72,9 +72,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&section=footer&height=120&color=0:6b8f3e,100:4f6f52&fontColor=ffffff" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=gradient&height=160&animation=fadeIn&color=0:f7ffe0,50:c7e9a0,100:6b8f3e"/>
 </p>
